@@ -1,0 +1,65 @@
+#profile{
+text-align: right;
+background-position: 0cm;
+text-size-adjust: 20px;
+}
+.name{
+    text-align: left;
+    font-family: cursive;
+    font-size: medium;
+    font-display: 10px;
+}
+nav{
+    background-color: rgb(226, 179, 90);
+    background-image: url("../../Pictures/Screenshots 1/Screenshot 2025-05-23 222036.png");
+    background-repeat:no-repeat;
+    color: black;
+    background-position: center;
+}
+footer{
+    background: scroll;
+    color: brown;
+    text-align: center;
+    margin: auto;
+    padding: 30px;
+    background-color: antiquewhite;
+    border: 0cap;
+}
+#contact,.profile,.links{
+ text-align: center;
+margin: auto;
+color: rgb(222, 14, 14);
+background-color: rgb(124, 233, 168);
+border: 0cap;
+}
+
+nav id:hover{
+text-decoration: dotted;
+}
+.picture,#description{
+    text-align: center;
+    background-color: rgb(197, 222, 236);
+    color: rgb(1, 1, 15);
+    text-size-adjust: 200px;
+    border-radius: 0cqmin;
+    box-sizing: content-box;
+}
+#skills,.certificate{
+    text-align: center;
+    text-decoration: aqua;
+    background-position: 0%;
+}
+#educations{
+    text-align: center;
+    font-family: cursive;
+}
+#hobbie{
+text-align: center;
+font-family: initial;
+color: rgb(20, 3, 3);
+background-color: rgb(105, 153, 179);
+}
+table,tr,td{
+   border: 5px solid black;
+   border-collapse: collapse; 
+}
